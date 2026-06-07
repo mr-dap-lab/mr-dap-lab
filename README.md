@@ -3,7 +3,9 @@
 I'm a **Certified Scrum Master & Product Owner** and **AI product strategist** stepping into Cybersecurity, who turns ambiguous requirements into shipped software. 10+ years leading Agile delivery across SaaS, AdTech, e-commerce, and fintech, on top of a career that began in regulated financial services 20+ years ago.
 
 I protect delivery cadence, coach high-performing teams, and own the backlog end-to-end:
-discovery → user stories → sprint execution → QA → release. 
+
+Discovery → user stories → sprint execution → QA → release. 
+
 On top of that, I am fully hands-on as an **independent strategist and consultant**, shipping AI products (LLM features, RAG pipelines, AI agents) for teams navigating the AI-native landscape.
 
 ### What I do
