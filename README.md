@@ -19,13 +19,13 @@ On top of that, I am fully hands-on as an **independent strategist and consultan
 
 - 🎙️ **[note-taker](https://github.com/mr-dap-lab/note-taker)** — AI meeting recorder with Gemini transcription, keyword extraction, Google Drive sync, and a live Meeting HUD. React + TypeScript, Firebase auth.
 - 🚇 **[metro-roadmap](https://github.com/mr-dap-lab/metro-roadmap)** — interactive metro-style product roadmap tool with SVG canvas, swimlane story maps, dependency tracking, and workspace snapshots. React + TypeScript, local-first.
-- 🗂️ **[productpromplibrary](https://github.com/mr-dap-lab/productpromplibrary)** — a curated prompt library for product people: reusable prompts for discovery, backlog work, and stakeholder comms
 - 📊 **[socialmediaconsumption](https://github.com/mr-dap-lab/socialmediaconsumption)** — data-science notebook exploring the link between social media consumption and wellbeing (KNN, SVM, Random Forest)
 - 💧 **[Water-Tracker](https://github.com/mr-dap-lab/Water-Tracker)** — Android app for tracking daily water consumption (Kotlin)
+- 🗂️ **[productpromplibrary](https://github.com/mr-dap-lab/productpromplibrary)** — a curated prompt library for product people: reusable prompts for discovery, backlog work, and stakeholder comms
 
 ### Toolbox
 
-`Jira` · `Confluence` · `Azure DevOps` · `Notion` · `Figma` · `Miro` · `Power BI` · `Tableau` · `Looker` · `SQL` · `Python` · `Claude Code` · `OpenAI / Anthropic APIs` · `Azure AI Foundry`
+`Jira` · `Confluence` · `Azure DevOps` · `Notion` · `Figma` · `Miro` · `Power BI` · `Tableau` · `Looker` · `SQL` · `Python` · `Claude Code` · `OpenAI / Anthropic APIs` · `Azure AI Foundry`, `OpenClaw`, `Hermes`, `Ollama`, `Antigravity`, `Google AI Studio`
 
 ### Credentials
 
