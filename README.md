@@ -49,6 +49,4 @@ On top of that, I am fully hands-on as an **independent strategist and consultan
 
 - 💼 [linkedin.com/in/diego-avella](https://www.linkedin.com/in/diego-avella/)
 - 🐦 [@DiegoAvellaP](https://x.com/DiegoAvellaP)
-- 📸 [iamdiegoavella](https://www.instagram.com/iamdiegoavella/)
-- 📫 diego.avella@me.com
 
