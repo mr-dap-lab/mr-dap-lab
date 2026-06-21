@@ -4,7 +4,7 @@ I'm a **Certified Scrum Master & Product Owner** and **AI product strategist** s
 
 I protect delivery cadence, coach high-performing teams, and own the backlog end-to-end:
 
-🔍 Discovery → 📝 User stories → ⚙️ Sprint execution → ✅ QA → 🚀 Release, and do it again!
+🔍 Discovery → 📝 Roadmap, backlog, and user stories → ⚙️ Sprint execution and Dev → ✅ QA → 🚀 Release, and do it again!
 
 On top of that, I am fully hands-on as an **independent strategist and consultant**, shipping AI products (LLM features, RAG pipelines, AI agents) for teams navigating the AI-native landscape.
 
