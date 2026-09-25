@@ -36,10 +36,10 @@ On top of that, I am fully hands-on as an **independent strategist and consultan
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!--p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-dap-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-dap-lab&layout=compact&theme=tokyonight" />
-</p>
+</p-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-dap-lab&theme=tokyonight" />
